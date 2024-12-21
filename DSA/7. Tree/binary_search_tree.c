@@ -40,15 +40,16 @@ void bst(int item)
 				t2=t2->right;
 			}
 		}
+		if(item<t3->data)
+		{
+			t3->left=t1;
+		}
+		else
+		{
+			t3->right=t1;
+		}
 	}
-	if(item<t3->data)
-	{
-		t3->left=t1;
-	}
-	else
-	{
-		t3->right=t1;
-	}
+	
 }
 
 void inorder(struct node *t)
