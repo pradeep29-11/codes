@@ -1,0 +1,17 @@
+#abc{
+    font-size: 26px;
+    text-align: justify;
+    color: red;
+   text-shadow: 5px 5px 5px red;
+   text-indent: 50px;
+   line-height: 25px;
+   letter-spacing: 5px;
+   word-spacing: 10px;
+    
+}
+/* 
+text-decoration:underline;
+    text-decoration-color: blue;
+    text-decoration-style: wavy;
+    text-shadow: 5px 5px 5px red;
+*/

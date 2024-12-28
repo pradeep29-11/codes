@@ -1,0 +1,16 @@
+#abc
+{
+    height:100vh;
+    /*background-color: red;*/
+    background-image: radial-gradient( red ,green ,blue);
+}
+/*
+ background-image: linear-gradient(red,green,blue);
+  background-image: linear-gradient(red 30%,green 80%,blue 20%);
+   background-image: linear-gradient(to left, red ,green ,blue);
+     background-image: linear-gradient(to bottom, red ,green ,blue);
+
+     circle
+     background-image: radial-gradient( red ,green ,blue);
+}
+*/

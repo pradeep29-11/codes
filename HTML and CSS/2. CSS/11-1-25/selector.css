@@ -1,0 +1,8 @@
+a[href="https://www.technocompacademy.com/contactus.php"]
+{
+    color: red;
+}
+p::first-line
+{
+    color: blue;
+}

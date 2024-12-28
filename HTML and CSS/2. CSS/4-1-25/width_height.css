@@ -1,0 +1,13 @@
+#red{
+    color: red;
+    border: 2px solid blue;
+    width: 50%;
+    height:40%
+}
+#blue{
+    height: 50%;
+    width: 50%;
+    border: 5px solid green;
+    max-width: 500px;
+    max-height: 500px;
+}

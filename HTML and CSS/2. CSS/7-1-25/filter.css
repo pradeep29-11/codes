@@ -1,0 +1,14 @@
+div{
+    width: 10t0vw;
+    height: 50vw;
+    background-image: url(nature.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* opacity: 0.3; */
+    /*filter: brightness(20%);*/
+    /*filter: contrast(80%);*/
+    filter: drop-shadow( 8px 20px blue
+    );
+    filter: invert(0.2);
+}

@@ -12,7 +12,7 @@ int main()
 	fp=fopen(rname,"r");
 	if(fp==NULL)
 	{
-		printf("Uable to open the file !!");
+		printf("Unable to open the file !!");
 		exit(0);
 	}
 	pos=ftell(fp);

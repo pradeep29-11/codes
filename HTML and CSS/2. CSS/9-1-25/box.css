@@ -1,0 +1,18 @@
+#abc
+{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+}
+#pqr
+{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    border: 10px solid black;
+
+    box-sizing: border-box;
+    overflow: auto;
+    color: red;
+    text-align: justify;
+}
